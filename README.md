@@ -5,7 +5,7 @@ project without any major consequences in performance, but I should not think th
 
 How do I approach developing programs?
 I develop programs through an iterative process as most of the time I don't get my desired result on the first try. By testing my code for the desired result, I am able
-to refine the areas that are lacking and learn from the errors I created.
+to refine the areas that are lacking and learn from the errors I created. 
 
 How can computer science help me in reaching my goals?
 Computer science can help me in reaching my goals as I want to work towards developing a procedural game world built almost solely on simulation. Not only will I learn 
